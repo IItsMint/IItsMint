@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Mustafa Kaan Akman! I'm an Electrical and Electronics Engineering graduate transitioning into Software Engineering. <br>I’m passionate about coding and currently expanding my skills in Java, Spring Boot, Angular, and web development. <br>I enjoy solving complex problems, learning new technologies, and building projects that make an impact. <br><br>🚀 Exploring software development with a focus on backend frameworks, web applications, and cybersecurity.<br><br>🌱 Always learning and sharing my journey as I grow as a developer.<br>
+👋 Hi, I'm Mustafa Kaan Akman! I'm an Electrical and Electronics Engineering graduate focused on Web Development. <br>I’m passionate about coding and currently expanding my skills in Java, Spring Boot, and, Angular. <br>I enjoy solving complex problems, learning new technologies, and building projects that make an impact. <br><br>🚀 Exploring software development with a focus on backend frameworks, web applications, and cybersecurity.<br><br>🌱 Always learning and sharing my journey as I grow as a developer.<br>
 
 
 ## 🌐 Socials:
